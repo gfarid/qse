@@ -1,0 +1,19 @@
+.my-image {
+  width: 200px;
+  height: auto;
+}
+
+.test {
+  font-size: 100px;
+  background-color: blue;
+}
+
+.email {
+  display: block;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-top: 30px;
+  outline: none;
+}
